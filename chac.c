@@ -12,7 +12,7 @@
 // binary representation of "ChaC"
 #define CONST 0b01000011011010000110000101000011
 
-void keystream(uint32_t out[8], uint32_t const in[8]) {
+void keystream(uint64_t out[8], uint64_t const in[8]) {
 
     uint32_t x[16];
 
@@ -39,17 +39,18 @@ void keystream(uint32_t out[8], uint32_t const in[8]) {
     // TODO: Generate the next three 256-bit keystreams
 }
 
-void print_block(uint32_t const in[8]) {
+void print_block(FILE *file, uint64_t const in[8]) {
     for (int i = 0; i < 8; i++) {
         for (int j = 0; j < 32; j++) {
-            printf("%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
+            fprintf(file, "%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
+            //printf("%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
         }
         //printf(" ");
         //if (i%4 == 3) { printf("\n"); }
     }
 }
 
-void copy_block(uint32_t dest[8], uint32_t const src[8]) {
+void copy_block(uint64_t dest[8], uint64_t const src[8]) {
     for (int i = 0; i < 8; i++) {
         dest[i] = src[i];
     }
@@ -68,7 +69,7 @@ int block_diffs(uint32_t a[8], uint32_t b[8]) {
 int main() {
     /*uint32_t key[4], nonce[2];*/
     /*uint32_t count;*/
-    uint32_t block[8];
+    uint64_t block[8];
 
 
     uint32_t key[4] = { 0, 0, 0, 0 };
@@ -88,16 +89,20 @@ int main() {
     //print_block(block);
 
     //printf("-----------------------------------------------------------------------------------------------------------------------------------\n");
+    //
+    FILE *file = fopen("nist_data.txt", "a");
 
-    uint32_t res[8], last_res[8];
+    uint64_t res[8], last_res[8];
     copy_block(last_res, block);
-
-    for (int i = 0; i < 10; i++) {
+    //printf("sizeof(block)=%zu, sizeof(res)=%zu, sizeof(last_res)=%zu\n",
+    for (int i = 0; i < 4000; i++) { // Get 1 million characters to test randomness
         keystream(res, block);
-        print_block(res);
+        print_block(file, res);
         //printf("%d\n\n", block_diffs(res, last_res));
         copy_block(last_res, res);
         block[4]++; // count
     }
+
+    fclose(file);
 
 }
