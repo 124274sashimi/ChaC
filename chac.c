@@ -3,10 +3,10 @@
 
 #define ROTL(a,b) (((a) << (b)) | ((a) >> (32 - (b))))
 #define QR(a, b, c, d) (             \
-	a += b, d ^= a, d = ROTL(d, 16), \
-	c += d, b ^= c, b = ROTL(b, 12), \
-	a += b, d ^= a, d = ROTL(d,  8), \
-	c += d, b ^= c, b = ROTL(b,  7))
+        a += b, d ^= a, d = ROTL(d, 16), \
+        c += d, b ^= c, b = ROTL(b, 12), \
+        a += b, d ^= a, d = ROTL(d,  8), \
+        c += d, b ^= c, b = ROTL(b,  7))
 #define ROUNDS 20
 
 // binary representation of "ChaC"
@@ -42,10 +42,10 @@ void keystream(uint32_t out[8], uint32_t const in[8]) {
 void print_block(uint32_t const in[8]) {
     for (int i = 0; i < 8; i++) {
         for (int j = 0; j < 32; j++) {
-            printf("%c", ((in[i] >> (31-j)) & 1) ? 'X' : '.');
+            printf("%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
         }
-        printf(" ");
-        if (i%4 == 3) { printf("\n"); }
+        //printf(" ");
+        //if (i%4 == 3) { printf("\n"); }
     }
 }
 
@@ -85,9 +85,9 @@ int main() {
     block[6] = nonce[1];
     block[7] = CONST;
 
-    print_block(block);
+    //print_block(block);
 
-    printf("-----------------------------------------------------------------------------------------------------------------------------------\n");
+    //printf("-----------------------------------------------------------------------------------------------------------------------------------\n");
 
     uint32_t res[8], last_res[8];
     copy_block(last_res, block);
@@ -95,7 +95,7 @@ int main() {
     for (int i = 0; i < 10; i++) {
         keystream(res, block);
         print_block(res);
-        printf("%d\n\n", block_diffs(res, last_res));
+        //printf("%d\n\n", block_diffs(res, last_res));
         copy_block(last_res, res);
         block[4]++; // count
     }
