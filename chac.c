@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include <math.h>
 
 #define ROTL(a,b) (((a) << (b)) | ((a) >> (32 - (b))))
 #define QR(a, b, c, d) (             \
@@ -67,6 +68,21 @@ int block_diffs(uint32_t a[8], uint32_t b[8]) {
     return diffs;
 }
 
+void add256Bits(unsigned char* buffer, size_t position, uint32_t* data, size_t bufferSize) {
+
+    const size_t CHUNK_SIZE_BYTES = 32;
+    if (position + CHUNK_SIZE_BYTES <= bufferSize) {
+        memcpy(buffer + position, data, CHUNK_SIZE_BYTES);
+    } else {
+        fprintf(stderr, "Buffer overflow prevented\n");
+    }
+}
+void crypt(char* message, char* keystream, char* store, int32_t length ){
+    for(int i = 0; i < length; i++) {
+        store[i] = message[i] ^ keystream[i];
+    }
+}
+
 int main(int argc, char *argv[]) {
     /*uint32_t key[4], nonce[2];*/
     /*uint32_t count;*/
@@ -87,42 +103,44 @@ int main(int argc, char *argv[]) {
     block[6] = nonce[1];
     block[7] = CONST;
 
-    //print_block(block);
-
+    // Open file to encrypt
     FILE *inputFile = fopen(argv[2], "r");
     fseek(inputFile, 0, SEEK_END);
-    long fileSize = ftell(inputFile)*8;
-    printf("%s", "File Size:");
-    printf("%ld", fileSize);
-    printf("%s", "\n");
-
-    int32_t *buffer = (int32_t *)malloc(fileSize);
+    long fileSize = ftell(inputFile);
+    fseek(inputFile, 0, SEEK_SET);
+    int32_t totalBytes = ceil((double)fileSize / 32)*32;
+    unsigned char* buffer = (unsigned char*)malloc(totalBytes);
+    memset(buffer, 0, totalBytes);
 
     uint32_t res[8], last_res[8];
     copy_block(last_res, block);
 
-
-    for (int i = 0; i < fileSize/256; i++) {
+    // Generate keystream, save to buffer
+    for (int i = 0; i < totalBytes/32; i++) {
         keystream(res, block);
-        print_block(res);
         copy_block(last_res, res);
-
-        uintptr_t shift = (uintptr_t)res;
-        int32_t index = shift >> 1;
-
-        printf("%s", "index:");
-        printf("%d", index);
-        printf("%s", "\n");
-
-        int32_t size = 32;
-        memcpy(buffer, &index, size);
-        printf("%s", "\n");
-        print_block(buffer);
-
+        add256Bits(buffer, i*32,res,totalBytes);
         block[4]++; // count
     }
-    size_t bytesRead = fread(buffer, 1, fileSize, inputFile);
 
+    char* fileContent = (char*)malloc(totalBytes); //Message
+    size_t message = fread(fileContent, 1, fileSize, inputFile);
     fclose(inputFile);
+
+    char* cyphertext = (char*)malloc(totalBytes + 0); // Output Encryption File
+    char* decryption = (char*)malloc(totalBytes + 0); // Output Encryption File
+
+    printf("Original text:\n%s\n", fileContent);
+
+    // Encrypt Text
+    crypt(fileContent, buffer, cyphertext, totalBytes);
+
+    printf("%s", "Cyphertext:\n");
+    printf("%s\n\n", cyphertext);
+
+    //Decrypt text
+    crypt(cyphertext, buffer, decryption, totalBytes);
+    printf("Decryption:\n%s\n", decryption);
+
 
 }
