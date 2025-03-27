@@ -1,5 +1,7 @@
 #include <stdint.h>
+#include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
 
 #define ROTL(a,b) (((a) << (b)) | ((a) >> (32 - (b))))
 #define QR(a, b, c, d) (             \
@@ -12,7 +14,7 @@
 // binary representation of "ChaC"
 #define CONST 0b01000011011010000110000101000011
 
-void keystream(uint64_t out[8], uint64_t const in[8]) {
+void keystream(uint32_t out[8], uint32_t const in[8]) {
 
     uint32_t x[16];
 
@@ -39,18 +41,17 @@ void keystream(uint64_t out[8], uint64_t const in[8]) {
     // TODO: Generate the next three 256-bit keystreams
 }
 
-void print_block(FILE *file, uint64_t const in[8]) {
+void print_block(uint32_t const in[8]) {
     for (int i = 0; i < 8; i++) {
         for (int j = 0; j < 32; j++) {
-            fprintf(file, "%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
-            //printf("%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
+            printf("%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
         }
-        //printf(" ");
+        printf(" ");
         //if (i%4 == 3) { printf("\n"); }
     }
 }
 
-void copy_block(uint64_t dest[8], uint64_t const src[8]) {
+void copy_block(uint32_t dest[8], uint32_t const src[8]) {
     for (int i = 0; i < 8; i++) {
         dest[i] = src[i];
     }
@@ -66,10 +67,10 @@ int block_diffs(uint32_t a[8], uint32_t b[8]) {
     return diffs;
 }
 
-int main() {
+int main(int argc, char *argv[]) {
     /*uint32_t key[4], nonce[2];*/
     /*uint32_t count;*/
-    uint64_t block[8];
+    uint32_t block[8];
 
 
     uint32_t key[4] = { 0, 0, 0, 0 };
@@ -88,21 +89,40 @@ int main() {
 
     //print_block(block);
 
-    //printf("-----------------------------------------------------------------------------------------------------------------------------------\n");
-    //
-    FILE *file = fopen("nist_data.txt", "a");
+    FILE *inputFile = fopen(argv[2], "r");
+    fseek(inputFile, 0, SEEK_END);
+    long fileSize = ftell(inputFile)*8;
+    printf("%s", "File Size:");
+    printf("%ld", fileSize);
+    printf("%s", "\n");
 
-    uint64_t res[8], last_res[8];
+    int32_t *buffer = (int32_t *)malloc(fileSize);
+
+    uint32_t res[8], last_res[8];
     copy_block(last_res, block);
-    //printf("sizeof(block)=%zu, sizeof(res)=%zu, sizeof(last_res)=%zu\n",
-    for (int i = 0; i < 4000; i++) { // Get 1 million characters to test randomness
+
+
+    for (int i = 0; i < fileSize/256; i++) {
         keystream(res, block);
-        print_block(file, res);
-        //printf("%d\n\n", block_diffs(res, last_res));
+        print_block(res);
         copy_block(last_res, res);
+
+        uintptr_t shift = (uintptr_t)res;
+        int32_t index = shift >> 1;
+
+        printf("%s", "index:");
+        printf("%d", index);
+        printf("%s", "\n");
+
+        int32_t size = 32;
+        memcpy(buffer, &index, size);
+        printf("%s", "\n");
+        print_block(buffer);
+
         block[4]++; // count
     }
+    size_t bytesRead = fread(buffer, 1, fileSize, inputFile);
 
-    fclose(file);
+    fclose(inputFile);
 
 }

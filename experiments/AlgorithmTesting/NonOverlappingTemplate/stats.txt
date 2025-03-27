@@ -1,5 +1,0 @@
-	NONOVERLAPPING TEMPLATES TESTS ABORTED DUE TO ONE OF THE FOLLOWING : 
-	Lambda (249.984375) not being positive!
-	Template file <templates/template9> not existing
-	Insufficient memory for required work space.
-
