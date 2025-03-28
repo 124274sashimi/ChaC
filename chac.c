@@ -44,7 +44,7 @@ void keystream(uint32_t out[32], uint32_t const in[8]) {
 
         // Diagonals
         QR(x[0], x[5], x[2], x[7]);
-        QR(x[1], x[6], x[3], x[4]);   
+        QR(x[1], x[6], x[3], x[4]);
 
         for (int j = 0; j < 8; j++) {
             out[i*8 + j] = x[j] ^ in[j];
