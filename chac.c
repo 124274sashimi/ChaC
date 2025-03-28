@@ -47,7 +47,7 @@ void keystream(uint32_t out[32], uint32_t const in[8]) {
         QR(x[1], x[6], x[3], x[4]);   
 
         for (int j = 0; j < 8; j++) {
-            out[i*8 + j] = x[j] ^ in[j];
+            out[i*8 + j + 8] = x[j] ^ in[j];
         }
     }
 }
@@ -78,20 +78,12 @@ int block_diffs(uint32_t a[8], uint32_t b[8]) {
     return diffs;
 }
 
-void add256Bits(unsigned char* buffer, size_t position, uint32_t* data, size_t bufferSize) {
+void crypt(uint32_t buffer[8], uint32_t keystream[8]) {
+    for (int i = 0; i < 8; i++) {
+        buffer[i] ^= keystream[i];
+    }
+}
 
-    const size_t CHUNK_SIZE_BYTES = 256;
-    if (position + CHUNK_SIZE_BYTES <= bufferSize) {
-        memcpy(buffer + position, data, CHUNK_SIZE_BYTES);
-    } else {
-        fprintf(stderr, "Buffer overflow prevented\n");
-    }
-}
-void crypt(unsigned char* message, unsigned char* keystream, unsigned char* store, int32_t length ){
-    for(int i = 0; i < length; i++) {
-        store[i] = message[i] ^ keystream[i];
-    }
-}
 
 int main(int argc, char *argv[]) {
     /*uint32_t key[4], nonce[2];*/
@@ -115,45 +107,42 @@ int main(int argc, char *argv[]) {
 
     // Open file to encrypt
     FILE *inputFile = fopen(argv[2], "r");
-    fseek(inputFile, 0, SEEK_END);
-    long fileSize = ftell(inputFile);
-    fseek(inputFile, 0, SEEK_SET);
-    int32_t totalBytes = ceil((double)fileSize / 128)*128;
-    unsigned char* buffer = (unsigned char*)malloc(totalBytes);
-    memset(buffer, 0, totalBytes);
+    FILE *outputFile = fopen(argv[3], "w");
 
-    uint32_t res[32], last_res[32];
-    copy_block(last_res, block);
-
-    // Generate keystream, save to buffer
-    for (int i = 0; i < totalBytes/128; i++) {
-        keystream(res, block);
-        copy_block(last_res, res);
-        copy_block(last_res+8, res);
-        copy_block(last_res+16, res);
-        copy_block(last_res+24, res);
-        add256Bits(buffer, i*128,res,totalBytes);
-        block[4]++; // count
+    if (inputFile == NULL) {
+        printf("Error opening the input file");
+        return 1;
     }
 
-    unsigned char* fileContent = (unsigned char *) malloc(totalBytes); //Message
-    size_t message = fread(fileContent, 1, fileSize, inputFile);
-    fclose(inputFile);
+    if (outputFile == NULL) {
+        printf("Error opening the output");
+        return 1;
+    }
 
-    unsigned char *cyphertext = (unsigned char *) malloc(totalBytes + 0); // Output Encryption File
-    unsigned char *decryption = (unsigned char *) malloc(totalBytes + 0); // Output Encryption File
+    size_t bytes_read = 0;
+    int sub_block = 0;
+    unsigned char buffer[32];
+    uint32_t stream[32];
 
-    printf("Original text:\n%s\n", fileContent);
+    while ((bytes_read = fread(buffer, sizeof(unsigned char), 32, inputFile)) > 0) {
+        for (int i = bytes_read; i < 32; i++) { // clear remaining bytes
+            buffer[i] = 0;
+            printf("a");
+        }
 
-    // Encrypt Text
-    crypt(fileContent, buffer, cyphertext, totalBytes);
+        if ((sub_block % 4) == 0) {
+            sub_block = 0;
+            keystream(stream, block); 
+            block[4]++; // count
+        }
 
-    printf("%s", "Cyphertext:\n");
-    printf("%s\n\n", cyphertext);
+        /*crypt((uint32_t *) buffer, stream);*/
+        crypt((uint32_t *) buffer, stream+(sub_block * 8));
 
-    //Decrypt text
-    crypt(cyphertext, buffer, decryption, totalBytes);
-    printf("Decryption:\n%s\n", decryption);
+        fwrite(buffer, sizeof(unsigned char), 32, outputFile);
+        sub_block++;
+    }
 
-
+    fclose(outputFile);
+    return 0;
 }
