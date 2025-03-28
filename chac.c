@@ -52,13 +52,12 @@ void keystream(uint32_t out[32], uint32_t const in[8]) {
     }
 }
 
-void print_block(uint32_t const in[8]) {
+
+void print_block(FILE *file, uint32_t const in[8]) {
     for (int i = 0; i < 8; i++) {
         for (int j = 0; j < 32; j++) {
-            printf("%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
+            fprintf(file, "%c", ((in[i] >> (31-j)) & 1) ? '0' : '1');
         }
-        printf(" ");
-        //if (i%4 == 3) { printf("\n"); }
     }
 }
 
