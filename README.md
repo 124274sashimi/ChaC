@@ -6,7 +6,9 @@ gcc chac.c -o chac
 
 ##Run:##
 
-./chac --file input.txt
+./chac [-n nonce] input_file output_file
+
+To change the key change line 88.
 
 ##About ChaC##
 
