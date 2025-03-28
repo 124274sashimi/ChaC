@@ -1,13 +1,14 @@
 
 ## Compile:
-
+```sh
 gcc chac.c -o chac
+```
 
 ## Run:
 
-'''bash 
+```sh
 ./chac [-n nonce] input_file output_file
-'''
+```
 
 To change the key change line 88.
 
