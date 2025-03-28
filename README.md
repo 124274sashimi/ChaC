@@ -64,10 +64,45 @@ Block 2: (256-bit matrix)
 
 
       ...
-
-
-
 Then, we XOR the generated keystream with the input message to create the cypher text. The example above, consisting of two blocks, generates a 2 * 4 * 256 = 2048-bit keystream. A rough analysis shows that the above algorithm is at least 3 times as performant as ChaCha.
+
+## NIST Testing
+
+Create a keystream with 1-4M bits in binary.
+```bash
+wc -m sample.bin
+```
+
+### Step 1. 
+Run the assessment with the desired chunk size. Depending on the test, chunk sizes can range from 256bits to 20,000. For ChaC we chose 20,000.
+
+```bash
+./assess <chunk size>
+```
+A chunk length of 20,000 is adequate with 200 chunks.
+
+### Step 2. 
+Enter 0 to select a file input.
+
+### Step 3. 
+Enter file name.
+
+### Step 4. 
+Do not run all tests. Enter 0.
+
+### Step 5.
+Only run the following to prevent underflow on deep tests:
+Frequency, Block Frequency, Cumulative Sums, Runs, Longest Run, Approximate Entropy, Serial, Linear Complexity.
+
+### Step 6.
+Enter the number of chunks. 
+
+### Step 7.
+Select binary as input
+
+### Step 8.
+View test results in Experiments --> Algorithm Testing --> finalAnalysisReport.txt
+
 
 
 
