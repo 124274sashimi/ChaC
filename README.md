@@ -1,17 +1,4 @@
 
-## Compile:
-```sh
-gcc chac.c -o chac
-```
-
-## Run:
-
-```sh
-./chac [-n nonce] input_file output_file
-```
-
-To change the key change line 88.
-
 ## About ChaC
 
 We implemented a smaller version of ChaCha that uses 256 bits instead of 512 bits. We initially thought this would be more efficient because it's half the size, but we have since realized that it is equally as computationally expensive, as twice the number of blocks will need to be "shuffled".
@@ -65,6 +52,24 @@ Block 2: (256-bit matrix)
 
       ...
 Then, we XOR the generated keystream with the input message to create the cypher text. The example above, consisting of two blocks, generates a 2 * 4 * 256 = 2048-bit keystream. A rough analysis shows that the above algorithm is at least 3 times as performant as ChaCha.
+
+
+## Compile:
+```sh
+gcc chac.c -o chac
+```
+
+## Usage:
+
+To change the key, change line 88.
+
+### Run the program:
+```sh
+./chac [-n nonce] input_file output_file
+```
+The program is symmetric. The encrypted file can be input to get the plaintext message.
+
+
 
 ## NIST Testing
 
