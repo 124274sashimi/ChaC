@@ -113,47 +113,24 @@ int main(int argc, char *argv[]) {
     block[6] = nonce[1];
     block[7] = CONST;
 
-    // Open file to encrypt
-    FILE *inputFile = fopen(argv[2], "r");
-    fseek(inputFile, 0, SEEK_END);
-    long fileSize = ftell(inputFile);
-    fseek(inputFile, 0, SEEK_SET);
-    int32_t totalBytes = ceil((double)fileSize / 128)*128;
-    unsigned char* buffer = (unsigned char*)malloc(totalBytes);
-    memset(buffer, 0, totalBytes);
 
     uint32_t res[32], last_res[32];
     copy_block(last_res, block);
 
+    FILE *file = fopen("nist_data.txt", "a");
+
     // Generate keystream, save to buffer
-    for (int i = 0; i < totalBytes/128; i++) {
+    for (int i = 0; i < 4000; i++) {
         keystream(res, block);
         copy_block(last_res, res);
         copy_block(last_res+8, res);
         copy_block(last_res+16, res);
         copy_block(last_res+24, res);
-        add256Bits(buffer, i*128,res,totalBytes);
+        print_block(file, res);
         block[4]++; // count
     }
 
-    unsigned char* fileContent = (unsigned char *) malloc(totalBytes); //Message
-    size_t message = fread(fileContent, 1, fileSize, inputFile);
-    fclose(inputFile);
-
-    unsigned char *cyphertext = (unsigned char *) malloc(totalBytes + 0); // Output Encryption File
-    unsigned char *decryption = (unsigned char *) malloc(totalBytes + 0); // Output Encryption File
-
-    printf("Original text:\n%s\n", fileContent);
-
-    // Encrypt Text
-    crypt(fileContent, buffer, cyphertext, totalBytes);
-
-    printf("%s", "Cyphertext:\n");
-    printf("%s\n\n", cyphertext);
-
-    //Decrypt text
-    crypt(cyphertext, buffer, decryption, totalBytes);
-    printf("Decryption:\n%s\n", decryption);
+    fclose(file);
 
 
 }
