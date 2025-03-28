@@ -1,16 +1,5000 @@
 		UNIVERSAL STATISTICAL TEST
-		--------------------------------------------
-		COMPUTATIONAL INFORMATION:
-		--------------------------------------------
-		(a) L         = 7
-		(b) Q         = 1280
-		(c) K         = 145005
-		(d) sum       = 898595.290951
-		(e) sigma     = 0.002735
-		(f) variance  = 3.125000
-		(g) exp_value = 6.196251
-		(h) phi       = 6.196995
-		(i) WARNING:  5 bits were discarded.
-		-----------------------------------------
-SUCCESS		p_value = 0.785481
-
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
+		UNIVERSAL STATISTICAL TEST
+		---------------------------------------------
+		ERROR:  L IS OUT OF RANGE.
+		-OR- :  Q IS LESS THAN 320.000000.
+		-OR- :  Unable to allocate T.
