@@ -24,13 +24,9 @@ Each block will generate 4 x 128-bit keystreams, instead of generating a new 128
 Our block is structured as follows: k is a 128-bit key, ct is a 32-bit counter, n is a 64-bit nonce, and C is a 32-bit constant, fixed to the value of 0x43686143.
 
 ---------------------
-
 | k1 | k2 | k3 | k4 |
-
 |----|----|----|----|
-
 | ct | n1 | n2 | C  |
-
 ---------------------
 
 
