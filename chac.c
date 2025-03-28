@@ -15,7 +15,7 @@
 // binary representation of "ChaC"
 #define CONST 0b01000011011010000110000101000011
 
-void keystream(uint32_t out[8], uint32_t const in[8]) {
+void keystream(uint32_t out[32], uint32_t const in[8]) {
 
     uint32_t x[16];
 
@@ -36,9 +36,20 @@ void keystream(uint32_t out[8], uint32_t const in[8]) {
 
     for (int i = 0; i < 8; i++) {
         out[i] = x[i] ^ in[i];
-
     }
 
+    for (int i = 0; i < 3; i++) { // Cheap rotations
+        QR(x[0], x[1], x[2], x[3]);
+        QR(x[4], x[5], x[6], x[7]);
+
+        // Diagonals
+        QR(x[0], x[5], x[2], x[7]);
+        QR(x[1], x[6], x[3], x[4]);   
+
+        for (int j = 0; j < 8; j++) {
+            out[i*8 + j] = x[j] ^ in[j];
+        }
+    }
     // TODO: Generate the next three 256-bit keystreams
 }
 
@@ -77,7 +88,7 @@ void add256Bits(unsigned char* buffer, size_t position, uint32_t* data, size_t b
         fprintf(stderr, "Buffer overflow prevented\n");
     }
 }
-void crypt(char* message, char* keystream, char* store, int32_t length ){
+void crypt(unsigned char* message, unsigned char* keystream, unsigned char* store, int32_t length ){
     for(int i = 0; i < length; i++) {
         store[i] = message[i] ^ keystream[i];
     }
@@ -108,27 +119,30 @@ int main(int argc, char *argv[]) {
     fseek(inputFile, 0, SEEK_END);
     long fileSize = ftell(inputFile);
     fseek(inputFile, 0, SEEK_SET);
-    int32_t totalBytes = ceil((double)fileSize / 32)*32;
+    int32_t totalBytes = ceil((double)fileSize / 128)*128;
     unsigned char* buffer = (unsigned char*)malloc(totalBytes);
     memset(buffer, 0, totalBytes);
 
-    uint32_t res[8], last_res[8];
+    uint32_t res[32], last_res[32];
     copy_block(last_res, block);
 
     // Generate keystream, save to buffer
-    for (int i = 0; i < totalBytes/32; i++) {
+    for (int i = 0; i < totalBytes/128; i++) {
         keystream(res, block);
         copy_block(last_res, res);
-        add256Bits(buffer, i*32,res,totalBytes);
+        copy_block(last_res+8, res);
+        copy_block(last_res+16, res);
+        copy_block(last_res+24, res);
+        add256Bits(buffer, i*128,res,totalBytes);
         block[4]++; // count
     }
 
-    char* fileContent = (char*)malloc(totalBytes); //Message
+    unsigned char* fileContent = (unsigned char *) malloc(totalBytes); //Message
     size_t message = fread(fileContent, 1, fileSize, inputFile);
     fclose(inputFile);
 
-    char* cyphertext = (char*)malloc(totalBytes + 0); // Output Encryption File
-    char* decryption = (char*)malloc(totalBytes + 0); // Output Encryption File
+    unsigned char *cyphertext = (unsigned char *) malloc(totalBytes + 0); // Output Encryption File
+    unsigned char *decryption = (unsigned char *) malloc(totalBytes + 0); // Output Encryption File
 
     printf("Original text:\n%s\n", fileContent);
 
