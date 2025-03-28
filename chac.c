@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include <math.h>
+#include <unistd.h>
 
 #define ROTL(a,b) (((a) << (b)) | ((a) >> (32 - (b))))
 #define QR(a, b, c, d) (             \
@@ -78,7 +78,7 @@ int block_diffs(uint32_t a[8], uint32_t b[8]) {
     return diffs;
 }
 
-void crypt(uint32_t buffer[8], uint32_t keystream[8]) {
+void xor(uint32_t buffer[8], uint32_t keystream[8]) {
     for (int i = 0; i < 8; i++) {
         buffer[i] ^= keystream[i];
     }
@@ -86,39 +86,76 @@ void crypt(uint32_t buffer[8], uint32_t keystream[8]) {
 
 
 int main(int argc, char *argv[]) {
-    /*uint32_t key[4], nonce[2];*/
-    /*uint32_t count;*/
-    uint32_t block[8];
-
-
-    uint32_t key[4] = { 0, 0, 0, 0 };
+    uint32_t key[4] = { 0, 0, 0, 0 }; // Replace with your key
+    
     uint32_t nonce[2] = { 0, 0 };
-    uint32_t count = 0;
 
-    block[0] = key[0];
-    block[1] = key[1];
-    block[2] = key[2];
-    block[3] = key[3];
+    if (argc < 3) {
+        fprintf(stderr, "Usage: %s [-n nonce] input_file output_file\n", argv[0]);
+        return 1;
+    }
 
-    block[4] = count;
-    block[5] = nonce[0];
-    block[6] = nonce[1];
-    block[7] = CONST;
+    // input parsing :()
+    int opt;
+    while ((opt = getopt(argc, argv, "hn:")) != -1) {
+        switch (opt) {
+            case 'n':
+                ; // make the compiler happy
+                char *endptr;  // To detect invalid input
+                uint64_t hex_value = strtol(optarg, &endptr, 16);
+
+                if (*endptr != '\0') {
+                    printf("Invalid hexadecimal input.\n");
+                } else {
+                    printf("Using a nonce of 0x%llx\n", hex_value);
+                }
+
+                nonce[0] = hex_value >> 32;
+                nonce[1] = hex_value;
+                break;
+            case 'h':
+            default:
+                fprintf(stderr, "Usage: %s [-n nonce] input_file output_file\n", argv[0]);
+                return 1;
+        }
+    }
+
+    if (argc - optind != 2) {
+        fprintf(stderr, "Usage: %s [-n nonce] input_file output_file\n", argv[0]);
+        return 1;
+    }
 
     // Open file to encrypt
-    FILE *inputFile = fopen(argv[2], "r");
-    FILE *outputFile = fopen(argv[3], "w");
+    FILE *inputFile = fopen(argv[optind], "r");
 
     if (inputFile == NULL) {
         printf("Error opening the input file");
         return 1;
     }
 
+    // Open file to decrypt
+    FILE *outputFile = fopen(argv[optind+1], "w");
+
     if (outputFile == NULL) {
         printf("Error opening the output");
         return 1;
     }
 
+
+    // Init values for block
+    uint32_t block[8];
+
+    block[0] = key[0];
+    block[1] = key[1];
+    block[2] = key[2];
+    block[3] = key[3];
+
+    block[4] = 0; // count
+    block[5] = nonce[0];
+    block[6] = nonce[1];
+    block[7] = CONST;
+
+    // Perform ChaC!
     size_t bytes_read = 0;
     int sub_block = 0;
     unsigned char buffer[32];
@@ -136,13 +173,13 @@ int main(int argc, char *argv[]) {
             block[4]++; // count
         }
 
-        /*crypt((uint32_t *) buffer, stream);*/
-        crypt((uint32_t *) buffer, stream+(sub_block * 8));
+        xor((uint32_t *) buffer, stream+(sub_block * 8));
 
         fwrite(buffer, sizeof(unsigned char), 32, outputFile);
         sub_block++;
     }
 
+    fclose(inputFile);
     fclose(outputFile);
     return 0;
 }
