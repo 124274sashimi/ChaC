@@ -54,13 +54,13 @@ Block 2: (256-bit matrix)
 Then, we XOR the generated keystream with the input message to create the cypher text. The example above, consisting of two blocks, generates a 2 * 4 * 256 = 2048-bit keystream. A rough analysis shows that the above algorithm is at least 3 times as performant as ChaCha.
 
 
-## Compile:
+## Usage:
+
+
+### Compile:
 ```sh
 gcc chac.c -o chac
 ```
-
-## Usage:
-
 To change the key, change line 88.
 
 ### Run the program:
