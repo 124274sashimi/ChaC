@@ -50,7 +50,6 @@ void keystream(uint32_t out[32], uint32_t const in[8]) {
             out[i*8 + j] = x[j] ^ in[j];
         }
     }
-    // TODO: Generate the next three 256-bit keystreams
 }
 
 void print_block(uint32_t const in[8]) {
@@ -81,7 +80,7 @@ int block_diffs(uint32_t a[8], uint32_t b[8]) {
 
 void add256Bits(unsigned char* buffer, size_t position, uint32_t* data, size_t bufferSize) {
 
-    const size_t CHUNK_SIZE_BYTES = 32;
+    const size_t CHUNK_SIZE_BYTES = 256;
     if (position + CHUNK_SIZE_BYTES <= bufferSize) {
         memcpy(buffer + position, data, CHUNK_SIZE_BYTES);
     } else {
