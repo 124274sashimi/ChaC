@@ -1,16 +1,17 @@
 
-
-##Compile:##
+## Compile:
 
 gcc chac.c -o chac
 
-##Run:##
+## Run:
 
+'''bash 
 ./chac [-n nonce] input_file output_file
+'''
 
 To change the key change line 88.
 
-##About ChaC##
+About ChaC
 
 We implemented a smaller version of ChaCha that uses 256 bits instead of 512 bits. We initially thought this would be more efficient because it's half the size, but we have since realized that it is equally as computationally expensive, as twice the number of blocks will need to be "shuffled".
 
